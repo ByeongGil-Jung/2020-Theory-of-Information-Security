@@ -1,0 +1,44 @@
+[ Cypher Text ]
+
+jpngvcbyvpzgcscqybyozivbvnbbpnrzbmyzgrfymsmpczgzgbyqybzygzgecgacikpnjcvvzqafbcgnyavfkzgbiyxamzgdbjyicxzmcfcgxagbnvbnxmygmnhbvbpnozivbzvbpnrzbmyzgcxnmngbicfzlnxhnnibyhnniygfzgnmaiingmkbpcbqczgbczgvcucfanjzbpyabcgkrcmszgdzgbizgvzmucfanyimngbicfzvvanivyocibpnrzbmyzgcvcmaiingmkagzbpcvbcsngahbpnrafsyobpnharfzmcbbngbzygrybpzgbniqvyobpnhyfzbzmcfcvhnmbvyocmaiingmkjzbpyabcmngbicfrcgscgxzbvntbinqnahjcixcgxxyjgjcixuyfcbzfzbkzghizmnpyjnunibpninzvcfvycgybpninwacffkzqhyibcgbhcibbyvcbyvpzvdicgxnthnizqngbbpnmygmnhbyochiyyoyojyisrcvnxrfymsmpczgbycffyjoyiharfzmcdinnqngbygbpnyixniyobicgvcmbzygvrzbmyzgcvcgchhfzmcbzygmcgrnxnvmizrnxcvcozivbbyozfnvkvbnqzoygnngbzbkpcvrbmcgxvzqafbcgnyavfkvngxvbpnvcqnrbmbyccgxbyrygfkbpnbicgvcmbzygbpcbdnbvmygoziqnxozivbjzffhiymnvvbpninzvgyzgbizgvzmjckyoxnbniqzgzgdoiyqbjybicgvcmbzygvjpzmpmcqnncifznicgxoyixnmcxnvbpzvvbkqznxbpnxnunfyhqngbyoxnmngbicfzlnxxzdzbcfmaiingmkvcbyvpzvrfymsmpczgjcvbpnozivbminxzrfnxnmngbicfzlnxvyfabzygcgxgyjcbbngbzygzvichzxfkvbcibzgdbyvpzobbyjcixbpzvvnmygxhcibyorzbmyzgvbnmpgyfydkcgxpyjbpnrfymsmpczgmygmnhbmcgrnavnxoyiqyinbpcgeavbqygnk
+
+
+[ S-Box ]
+
+sbox['b'] = 't' #
+sbox['n'] = 'e' #
+sbox['c'] = 'a' #
+sbox['g'] = 'n' #
+sbox['z'] = 'i' #
+sbox['y'] = 'o' #
+sbox['v'] = 's' #
+sbox['i'] = 'r' #
+sbox['m'] = 'c' #
+sbox['p'] = 'h' #
+
+sbox['f'] = 'l' #
+sbox['x'] = 'd' #
+sbox['a'] = 'u' #
+sbox['o'] = 'f' #
+sbox['r'] = 'b' #
+sbox['h'] = 'p' #
+sbox['q'] = 'm' #
+sbox['j'] = 'w' #
+sbox['k'] = 'y' #
+sbox['s'] = 'k' #
+sbox['d'] = 'g' #
+sbox['u'] = 'v' #
+sbox['l'] = 'z' #
+sbox['t'] = 'x' #
+sbox['e'] = 'j' #
+sbox['w'] = 'q' #
+
+
+[ Plain Text ]
+
+whensatoshinakamotofirstsetthebitcoinblockchainintomotioninjanuaryhewassimultaneouslyintroducingtworadicalanduntestedconceptsthefirstisthebitcoinadecentralizedpeertopeeronlinecurrencythatmaintainsavaluewithoutanybackingintrinsicvalueorcentralissuersofarthebitcoinasacurrencyunithastakenupthebulkofthepublicattentionbothintermsofthepoliticalaspectsofacurrencywithoutacentralbankanditsextremeupwardanddownwardvolatilityinpricehoweverthereisalsoanotherequallyimportantparttosatoshisgrandexperimenttheconceptofaproofofworkbasedblockchaintoallowforpublicagreementontheorderoftransactionsbitcoinasanapplicationcanbedescribedasafirsttofilesystemifoneentityhasbtcandsimultaneouslysendsthesamebtctoaandtobonlythetransactionthatgetsconfirmedfirstwillprocessthereisnointrinsicwayofdeterminingfromtwotransactionswhichcameearlierandfordecadesthisstymiedthedevelopmentofdecentralizeddigitalcurrencysatoshisblockchainwasthefirstcredibledecentralizedsolutionandnowattentionisrapidlystartingtoshifttowardthissecondpartofbitcoinstechnologyandhowtheblockchainconceptcanbeusedformorethanjustmoney
+
+
+[ Plain Text (정렬) ]
+
+When Satoshi Nakamoto first set the bitcoin blockchain into motion in January. He was simultaneously introducing two radical and untested concepts. The first is the bitcoin a decentralized peer to peer online currency that maintains a value without any backing intrinsic value or central issuer. So far, the bitcoin as a currency unit has taken up the bulk of the public attention both in terms of the political aspects of a currency without a central bank and its extreme upward and downward volatility in price. However, the REIS also another equally important part to Satoshi’s grand experiment the concept of a proof of work based blockchain to allow for public agreement. On the order of transactions bitcoin as an application can be described as a first to file system. If one entity has BTC and simultaneously sends the same BTC to A and to B only the transaction that gets confirmed first will process. There is no intrinsic way of determining from two transactions which came earlier and for decades this stymied the development to F decentralized digital currency. Satoshi’s blockchain was the first credible decentralized solution and now attention is rapidly starting to shift toward this second part of bitcoin’s technology and how the block chain concept can be used for more than just money.
